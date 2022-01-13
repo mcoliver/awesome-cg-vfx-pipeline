@@ -100,6 +100,7 @@ Any contribution is welcome!
 * [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design
 * [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art
 * [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use
+* [Wizart](https://wizartsoft.com/) - Open Source extensible 3D editor based on Pixar's Universal Scene Description (USD)
 * [ZENO](https://github.com/zenustech/zeno) - Node based 3D system able to produce cinematic physics effects at High Efficiency
 
 ### 3D realtime engines
