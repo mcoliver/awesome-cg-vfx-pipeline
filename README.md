@@ -258,6 +258,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 ### Colors
 
 * [Colour](https://www.colour-science.org/) - An open-source Python package providing a comprehensive number of algorithms and datasets for colour science
+* [Eclair Looks](https://github.com/remia/EclairLooks) - A color processing tool that allows quick preview of various color transformations on still images and browse through library of 3DLUT
 * [OpenColorIO](https://opencolorio.org/) ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment, a complete color management solution geared towards motion picture production with an emphasis on visual effects and computer animation
 
 ### Shaders
